@@ -1,2 +1,3 @@
 # php_register_login
-php register and login example
+
+Demo for how to use php session to create register/login and save data into txt file.
